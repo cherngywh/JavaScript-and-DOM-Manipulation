@@ -141,11 +141,10 @@ function handleSearchButtonClick() {
 renderTable();
 
 
-/*
+
 // import dataTables to create pagination
 $(document).ready(function() {
   $('#mytable').DataTable( {
       "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]]
   } );
 } );
-*/
